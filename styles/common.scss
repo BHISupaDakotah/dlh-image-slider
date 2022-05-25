@@ -1,3 +1,9 @@
+// can change sass variables with javascript cannot SCSS
+:root {
+  --main-border-color: black;
+  --slider-color: pink;
+}
+
 body {
   margin: 0;
 }
